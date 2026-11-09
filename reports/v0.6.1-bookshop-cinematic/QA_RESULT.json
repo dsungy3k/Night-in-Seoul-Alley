@@ -1,0 +1,21 @@
+{
+  "version": "v0.6.1-bookshop-cinematic",
+  "source_commit": "002d55fcd0331ca2de840ccfd504974d2a73af06",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 30,
+  "production_default": true,
+  "shared_room_window_door": true,
+  "native_point_lights": 6,
+  "native_pixel_response": "passed",
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "81768AECF8C046EA746D9ED9A74E741C0773EC88304C9BB1852C7E8A8A0E1773",
+  "test_zip_sha256": "50DFD1A290E7C931119B19777DC2642C84A12827856E04E8C79C1743BDAB1505",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "publication_scope": "QA text only; no source, artwork or executables uploaded"
+}
