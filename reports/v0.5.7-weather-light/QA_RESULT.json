@@ -1,0 +1,28 @@
+{
+  "version": "v0.5.7-weather-light",
+  "source_commit": "a97a33b329b7fe61dd0c378784fbd2269c19e5ad",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 27,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "84988E4D570E4B74B1D1230E9469DD63D0D45354DF4E76C87F242E0A728849A6",
+  "test_zip_sha256": "CDE9E17953B14DFC4FEB93613655DE1C380C731989760B50844C25FC5FA1398D",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "exported_weather_review_route": "passed",
+  "render": {
+    "clear_rgb_sum": 334621.824592686,
+    "clear_vs_frozen_v056_changed_pixels_excluding_badge": 0,
+    "moving_cloud_changed_pixels": 803427,
+    "night_clear_vs_rain_at_equal_wetness_no_drops_changed_pixels": 0,
+    "overcast_rgb_sum": 291465.607139782,
+    "passed": true,
+    "rain_rgb_sum": 277292.230350632,
+    "scope": "photometric comparison at fixed wetness/time; no mobile or fluid validation",
+    "sun_direction_preserved": true
+  }
+}
