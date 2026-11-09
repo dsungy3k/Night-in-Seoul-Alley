@@ -1,0 +1,27 @@
+{
+  "version": "v0.5.1-modular-cafe",
+  "source_commit": "45b370e1ac997452e246f6495339a46d2de7256b",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 21,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "4C7FE9A382269210E63683A08687D1B4F95A1034EEC2925A63ACD12F7857EEE3",
+  "test_zip_sha256": "A6CCF8897A532E2A9AA27B317A562AF3A3BC1BAA10836BA5C8097EAF676393D6",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "modular_render_verification": {
+    "left_toggle_changed_pixels": 15844,
+    "passed": true,
+    "right_region_changed_pixels": 0,
+    "scope": "Actual Windows rendering. Independent lamp and backplate-removal pixel comparisons; not mobile performance or all-art approval.",
+    "session_unchanged": true
+  },
+  "exterior_parts": 29,
+  "interior_parts": 17,
+  "embedded_file_count": 288,
+  "native_windows_display": "passed"
+}
