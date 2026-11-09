@@ -1,0 +1,19 @@
+{
+  "version": "v0.4.10-alpha",
+  "source_commit": "a82181726c89a3d204befab495d556f7edca3915",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 19,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "691F5460D7A3A47885330A7EA63AC53F87B5648C4AF8194BBDA59E28660C9F60",
+  "test_zip_sha256": "9A59321244114861EA67530164BDE6E5507FF7C6B0A003300B38EF4337DCA921",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "native_windows_display": "passed",
+  "embedded_file_count": 242,
+  "github_scope": "QA records only; source commit refers to local Git; source assets and test executable not uploaded"
+}
