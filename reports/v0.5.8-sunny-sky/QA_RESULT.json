@@ -1,0 +1,32 @@
+{
+  "version": "v0.5.8-sunny-sky",
+  "source_commit": "8111417591c300893e8a04456f8c2ef2a77cd5e1",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 28,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "A9ED4BB8A0531744DEF02E97F1C08BC49394FA2575B95F7135E7A9102B479591",
+  "test_zip_sha256": "460426E3E5DD16458E11AEC82DB394CD7FDED3DC774B31F839B38FE90AEFB949",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "exported_weather_review_route": "passed",
+  "render": {
+    "clear_brightness_ratio_vs_v057": 1.38369000656192,
+    "clear_rgb_sum": 463012.874666417,
+    "clear_vs_frozen_v057_changed_pixels_excluding_badge": 740043,
+    "moving_cloud_changed_pixels": 814150,
+    "night_clear_vs_rain_at_equal_wetness_no_drops_changed_pixels": 0,
+    "night_vs_frozen_v057_changed_pixels_excluding_badge": 0,
+    "overcast_rgb_sum": 313999.749332033,
+    "passed": true,
+    "rain_rgb_sum": 279236.748098649,
+    "scope": "photometric comparison at fixed wetness/time; daytime sky palette and exposure, no mobile or fluid validation",
+    "sky_changed_pixels": 22049,
+    "sky_changes_outside_top_band": 0,
+    "sun_direction_preserved": true
+  }
+}
