@@ -1,0 +1,20 @@
+{
+  "version": "v0.5.2-street-study",
+  "source_commit": "c7d441c2238acd96d1179cba1adb85d80e61c01b",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 21,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "E883E3F34DEB87F292E5936E66F261E882C7B38F4E5D967E09D7DF21B1415837",
+  "test_zip_sha256": "F6F920497F8BA0AD6D67586363AC5FF778FBDC3F7F3095BAFEB98D82E7FF7465",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "exported_street_route": "passed",
+  "background_windows": 16,
+  "background_world_width": 3072,
+  "window_pixels_changed_outside_selected": 0
+}
