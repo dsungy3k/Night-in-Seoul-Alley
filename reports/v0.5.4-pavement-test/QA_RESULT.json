@@ -1,0 +1,31 @@
+{
+  "version": "v0.5.4-pavement-test",
+  "source_commit": "6857b0692f9a640515a04ccb348212afe34ae99e",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 23,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "ECE5DBBBABBBDF95B2F089BBCCAC0184DC587CF27661FE969B44D4F64DBC5A64",
+  "test_zip_sha256": "A5EECFB07B83E944FA30CDD5AC3980AE030DAE19C9ED09BF731742F3A8C0CCDD",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "exported_pavement_route": "passed",
+  "render": {
+    "A_vs_B": {
+      "inside": 183226,
+      "outside": 0
+    },
+    "B_vs_C": {
+      "inside": 81788,
+      "outside": 0
+    },
+    "building_changed_pixels": 0,
+    "new_runtime_bitmap": "assets/pavement_test_v1/neutral_pavement.png",
+    "passed": true,
+    "scope": "floor-only A/B/C comparison; shader wave and reflection, not physical fluid or mobile benchmark"
+  }
+}
