@@ -1,0 +1,31 @@
+{
+  "version": "v0.5.6-time-study",
+  "source_commit": "422e6fef687c0955a1ee43fad6ef60560773f272",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 26,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "DC74A2BC0A6ECB1E2FD8958C292BA3155467FB04E9825DC5DD2373CA083321D8",
+  "test_zip_sha256": "A995727E58741A0F09DFC94F0C78D55AE1ABFAC93C6508DB6E6A2E2251438EC5",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "exported_time_review_route": "passed",
+  "render": {
+    "day_art": "shader color-grade prototype; existing night image, not final authored daytime scene",
+    "default_game_time": "night fixed; time review opt-in",
+    "default_night_vs_frozen_v055_changed_pixels_excluding_badge": 0,
+    "method": "native DirectionalLight2D and player/chair/NPC LightOccluder2D silhouettes, clipped to art-directed finite ground lengths",
+    "native_shadow_changed_pixels": 3106,
+    "outside_ground_changed_pixels": 0,
+    "passed": true,
+    "scope": "cafe segment only; no mobile benchmark or astronomical sun model",
+    "shadow_mask_resolution": [
+      480,
+      270
+    ]
+  }
+}
