@@ -1,0 +1,22 @@
+{
+  "version": "v0.6.0-world-environment",
+  "source_commit": "a13437d5a8f7cb9c3ae5f4c2abb0bca3fa6a63c2",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 29,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "365344116BAF6638CECD81D45E57D3004C28A4E94D9F83E1F4D4F71BC29964AF",
+  "test_zip_sha256": "8313DE73DB148EAEF51C0810E3234DE90E8317DE56DDE15DCA2F06E5ED78B808",
+  "production_default": true,
+  "clock_badge_native": "passed",
+  "date_random_evening": "passed",
+  "full_street_cafe_pavement": "passed",
+  "bookshop_live_reflection_binding": "passed",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "publication_scope": "QA text only; no source, artwork or executables uploaded"
+}
