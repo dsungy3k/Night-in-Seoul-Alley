@@ -1,0 +1,19 @@
+{
+  "version": "v0.5.0-art-preview",
+  "source_commit": "f08f04c98c59260f28459ebcd57e2c6ebd55c4cf",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 20,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "C5DEC4A4A6AE3513E375C067FC9D24CC1C59622322F3408EF8AC540E0E77C602",
+  "test_zip_sha256": "90BCB55FE145711DDF8161F9CF5E654D7499FC1D6E374F9A6349A033F59B9FF8",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "native_windows_display": "passed",
+  "embedded_file_count": 270,
+  "art_scope": "cafe_pilot_only; full_street_NPC_UI_polish_pending_visual_review"
+}
