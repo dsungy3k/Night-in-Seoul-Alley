@@ -1,0 +1,39 @@
+{
+  "version": "v0.5.5-cafe-runtime",
+  "source_commit": "38bce719d9dd0e11c9009ab7c149c03c59e36a85",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "verification_pass_groups": 25,
+  "full_input_playthrough": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_hashes": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "83AA6F32151B1C0F38A02CE68850ABD1AA33F0751F974FA988F2E5D81BBD43F0",
+  "test_zip_sha256": "832E5745E220CFCC3FA823624DE841721C3F142DB6A00D6651464DD82CABBD23",
+  "manual_native_full_playthrough": "not_run",
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "exported_light_review_route": "passed",
+  "render": {
+    "default_game_runtime": true,
+    "door_floor_changed_pixels": 15081,
+    "door_lamp_changed_pixels": 25644,
+    "exterior_on_off_changed_pixels": 49950,
+    "native_door_lights": 1,
+    "native_exterior_lights": 4,
+    "passed": true,
+    "per_exterior_changed_pixels": {
+      "roof": 1787,
+      "sign": 13963,
+      "wall.left": 17087,
+      "wall.right": 17113
+    },
+    "scope": "actual gameplay scene; no sun-position or mobile benchmark"
+  },
+  "reusable_adapter_render": {
+    "accepted_reference": "v0.5.4-pavement-test C",
+    "changed_pixels_after_adapter": 0,
+    "passed": true,
+    "scope": "native visual parity; gameplay scene binding separately tested; no exterior fixture or sun-position lighting approval"
+  }
+}
