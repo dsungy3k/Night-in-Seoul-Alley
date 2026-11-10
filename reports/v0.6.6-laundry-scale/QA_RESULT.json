@@ -1,0 +1,28 @@
+{
+  "version": "v0.6.6-laundry-scale",
+  "source_commit": "10daaf3bdab7740e58f21d687b92c18934c89687",
+  "exe_sha256": "61CB01A4ED4F4298C9AE92EC08A9B7F8482F3A1F4919122602353CFAF5B60797",
+  "test_zip_sha256": "308728B75A5B4A139E6555A9BFCFCC6BD50957589B494E81A9338035CC1F8D28",
+  "regression_pass_groups": 35,
+  "native_display": "passed",
+  "embedded_pack_native_scene": "passed",
+  "bare_exe_native_startup": "passed",
+  "embedded_asset_audit": "passed",
+  "scale_before": 0.24,
+  "scale_after": 0.2,
+  "uniform_reduction_percent": 16.6666667,
+  "world_origin": [
+    1740,
+    210
+  ],
+  "laundry_door_height": 71.2,
+  "store_door_height": 70.8,
+  "interior_originals_and_layout": "unchanged",
+  "entry_hit_target": "aligned",
+  "window_door_entry_reflection": "passed",
+  "commercial_clearance": "pending_existing_status",
+  "apk": "deferred",
+  "mobile_hardware": "not_run",
+  "steam_depot": "not_run",
+  "github_scope": "QA text and hashes only"
+}
