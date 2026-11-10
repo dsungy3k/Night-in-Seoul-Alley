@@ -1,0 +1,27 @@
+{
+  "version": "v0.6.3-bookshop-lamps",
+  "source_commit": "e5e908666a88a0e61280a49afe7abcc3db3a270d",
+  "verification_pass_groups": 32,
+  "production_default": true,
+  "approved_original_bookshop_files": "unchanged",
+  "pendant_underside_luma_gain": [
+    3.43013141194788,
+    3.62186135355485
+  ],
+  "all_off_before_after_rgb_delta": 0,
+  "desk_shade_luma_ratio": 0.91443801964344,
+  "external_lantern_response": "passed",
+  "live_floor_reflection": "passed",
+  "full_input_playthrough": "passed",
+  "native_standalone_exe": "passed",
+  "embedded_pack_audit": "passed",
+  "extracted_zip_startup": "passed",
+  "exe_sha256": "1A87B1019FE41F336AEF53CCFB16561284980F225826B4644DFD45805B0B7F7A",
+  "test_zip_sha256": "6E2DC3E4993140D536C51A4C7CEA3B500AE693893EC894482B490FEEE081D75D",
+  "new_runtime_bitmaps": false,
+  "android_device": "deferred",
+  "steam_depot": "not_run",
+  "commercial_release": "not_approved",
+  "manual_native_full_playthrough": "not_run",
+  "publication_scope": "QA text/hashes only"
+}
