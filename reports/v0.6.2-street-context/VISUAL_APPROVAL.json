@@ -1,0 +1,12 @@
+{
+  "version": "v0.6.2-street-context",
+  "date_kst": "2026-11-10",
+  "midground_visual_approval": "approved",
+  "user_statement": "지금 괜찮은거 같아요",
+  "scope": "Current midground art, house height/density/placement shown in review",
+  "asset_sha256": "BB2573EB2D4E949FD860CE683C1D4768410FCDA366999A4C0DBE90A7EF1176D3",
+  "bookshop_approval": "retained; 7-file lock unchanged",
+  "source_commit": "ea94b1613082f49a9c17e3cc8d413409fa4779ae",
+  "commercial_rights_clearance": "unchanged; visual approval only",
+  "publication_scope": "QA text/hashes only; no source/art/binary upload"
+}
