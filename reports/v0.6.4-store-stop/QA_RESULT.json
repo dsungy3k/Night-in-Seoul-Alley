@@ -1,0 +1,23 @@
+{
+  "version": "v0.6.4-store-stop",
+  "source_commit": "ecece35367c67cd36f228a7556c2423969cc3154",
+  "exe_sha256": "8F17FCE3FD8DB506A5DCD625BE42F0A7F28BF413692EA8D9CB145F2DBF9338C8",
+  "test_zip_sha256": "A9869D12FA0C73D9FB5AFE4E2DD7E48AEC13378F32CC9763E533A5F3E42A940A",
+  "verification_pass_groups": 33,
+  "native_fluorescent_optics": "passed",
+  "native_neon_and_LED": "passed",
+  "embedded_pack_native_scene": "passed",
+  "bare_exe_native_startup": "passed",
+  "embedded_asset_exclusion_audit": "passed",
+  "store_ground_and_home_visible": true,
+  "store_entered_view_shared": true,
+  "approved_stop_only": true,
+  "road_mountain_vehicle_in_runtime": false,
+  "bus_arrival_display": "fictional shared-game-clock timetable estimate",
+  "apk": "deferred_by_user",
+  "mobile_device": "not_run",
+  "steam_depot": "not_run",
+  "commercial_clearance": "pending",
+  "full_source_and_exe": "local version folder",
+  "github_scope": "QA text and hashes only; no source/art/binary upload"
+}
